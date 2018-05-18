@@ -4,6 +4,8 @@ Developed a prototype of Shape Detecting System which can plot 3 dimensional ima
 #Files' Details
 
 Shape_Detection_PPT_1.pdf and Shape_Detection_PPT_2.pdf are the presentation files.
+
 EW2_Report_XXX_XXX.pdf contains the details of the project including caliberation of sensors and hardware design.
 
+cal_LED.ino has Arduino UNO code to caliberate individual LEDs as per room light interference and providing a mean value.
 
